@@ -1,1 +1,1 @@
-# Cloud-secret-money
+# Cloud-secret-money skill
